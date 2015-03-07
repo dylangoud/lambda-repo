@@ -43,7 +43,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.genesis" name="Genesis" version="4.0.0" provider-name="lambda">
+<addon id="plugin.video.genesis" name="Genesis" version="4.0.1" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.metahandler" optional="true"/>
@@ -67,7 +67,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.hellenic.tv" name="Hellenic TV" version="3.3.0" provider-name="lambda">
+<addon id="plugin.video.hellenic.tv" name="Hellenic TV" version="3.3.1" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.simplejson" optional="true"/>
@@ -76,8 +76,6 @@
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video audio</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup">
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Greek television</summary>
