@@ -1,4 +1,18 @@
 ------------------------
+Hellenic TV v3.3.2 (11-Mar-15)
+------------------------
+
+- NOTE: Anniversary update!
+- NOTE: Hellenic TV is now 3 years old:)
+- Updated live TV channels.
+- Added virtual movie channels.
+- Added secondary streams for MEGA and STAR.
+- Fixed issues with movie search.
+- Tweaked available resolvers.
+- Code cosmetics.
+
+
+------------------------
 Hellenic TV v3.3.1 (7-Mar-15)
 ------------------------
 
