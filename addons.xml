@@ -43,7 +43,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.genesis" name="Genesis" version="4.1.0" provider-name="lambda">
+<addon id="plugin.video.genesis" name="Genesis" version="4.2.0" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.metahandler" optional="true"/>
@@ -67,7 +67,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.hellenic.tv" name="Hellenic TV" version="3.3.2" provider-name="lambda">
+<addon id="plugin.video.hellenic.tv" name="Hellenic TV" version="3.3.3" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.simplejson" optional="true"/>
@@ -113,7 +113,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.muchmovies.hd" name="Much Movies HD" version="1.7.2" provider-name="lambda">
+<addon id="plugin.video.muchmovies.hd" name="Much Movies HD" version="1.7.3" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.metahandler" version="1.0.0"/>
