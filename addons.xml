@@ -43,9 +43,10 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.genesis" name="Genesis" version="4.4.0" provider-name="lambda">
+<addon id="plugin.video.genesis" name="Genesis" version="4.4.1" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.requests" version="1.0.0"/>
 		<import addon="script.module.metahandler" optional="true"/>
 		<import addon="script.module.simplejson" optional="true"/>
 		<import addon="script.module.parsedom" optional="true"/>
@@ -67,9 +68,10 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.hellenic.tv" name="Hellenic TV" version="3.3.5" provider-name="lambda">
+<addon id="plugin.video.hellenic.tv" name="Hellenic TV" version="3.3.6" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.requests" version="1.0.0"/>
 		<import addon="script.module.simplejson" optional="true"/>
 		<import addon="script.module.parsedom" optional="true"/>
 		<import addon="plugin.video.youtube" optional="true"/>
